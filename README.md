@@ -1,4 +1,4 @@
-# Fleiss Kappa
+# Fleiss Kappa Torchmetrics
 
 A torchmetrics (Pytorch) implementation of Fleiss Kappa for interrater agreement.
 
@@ -35,7 +35,7 @@ Tests conducted on
 
 ## Contribute
 
-I am happy about contributions.
+I appreciate contributions.
 
 ## References
 
